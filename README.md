@@ -1,1 +1,1 @@
-# edr-issues-595-reproduce
+npm i && node ./runTraceTransaction.js
